@@ -11,6 +11,8 @@ You can access the original dataset in [US_births(2018) Dataset](https://www.kag
   - Classification
 - Evaluation
 
+_For Mored Detailed Overview Of Steps Read_
+
 ## Support
 Find us at:
 * [Elaheh Toulabi Nejad](elitoulabin@gmail.com)
