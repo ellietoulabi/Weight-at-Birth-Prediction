@@ -11,7 +11,7 @@ You can access the original dataset at [US_births(2018) Dataset](https://www.kag
   - Classification
 - Evaluation
 
-_For Mored Detailed Overview Of Steps and Challenges Read_
+_For Mored Detailed Overview Of Steps and Challenges Read [This](https://github.com/ellietoulabi/Weight-at-Birth-Prediction/blob/6948c57194717fed990f6311232f5f81fc6272f2/Weight%20at%20Birth%20Prediction%20-%20presentation.pdf)_
 
 ## Prerequisites
 
