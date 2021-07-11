@@ -1,6 +1,6 @@
 # Weight at Birth Prediction
 In this project, we will find a suitable solution for predicting the weight of newborns at birth with the help of data mining.
-You can access the original dataset in [US_births(2018) Dataset](https://www.kaggle.com/des137/us-births-2018).
+You can access the original dataset at [US_births(2018) Dataset](https://www.kaggle.com/des137/us-births-2018) and preprocessed dataset at [Preprocessed](https://drive.google.com/file/d/1-C1OO3s2OD_n8dIY36nEmB18R0x0lbRE/view).
 
 ## Covered Subjects
 - Dataset Description 
@@ -11,16 +11,62 @@ You can access the original dataset in [US_births(2018) Dataset](https://www.kag
   - Classification
 - Evaluation
 
-_For Mored Detailed Overview Of Steps Read_
+_For Mored Detailed Overview Of Steps and Challenges Read_
 
 ## Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* folan
+* jenkspy
   ```sh
-  pip install folan
+  pip install jenkspy
   ```
+* pandas 
+  ```sh
+  pip install pandas
+  ```
+* matplotlib  
+  ```sh
+  pip install matplotlib
+  ```
+* numpy  
+  ```sh
+  pip install numpy
+  ```
+ * seaborn 
+   ```sh
+   pip install seaborn
+   ```
+ * statsmodels 
+   ```sh
+   pip install statsmodels
+   ```
+ * scipy 
+   ```sh
+   pip install scipy
+   ```
+ * sklearn 
+   ```sh
+   pip install sklearn
+   ```
+ * graphviz 
+   ```sh
+   pip install graphviz
+   ```
+ * mlxtend
+   ```sh
+   pip install mlxtend
+   ```
+ * pydotplus 
+   ```sh
+   pip install pydotplus
+   ```
+ * imblearn 
+   ```sh
+   pip install imblearn
+   ```
+
+
   
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
