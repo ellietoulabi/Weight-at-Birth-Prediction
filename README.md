@@ -1,5 +1,5 @@
 # Weight at Birth Prediction
-In this project, we will find a suitable solution for predicting the weight of newborns at birth with the help of data mining.
+In this project, we try to find a suitable solution for predicting the weight of newborns at birth with the help of data mining.
 You can access the original dataset at [US_births(2018) Dataset](https://www.kaggle.com/des137/us-births-2018) and preprocessed dataset at [Preprocessed](https://drive.google.com/file/d/1-C1OO3s2OD_n8dIY36nEmB18R0x0lbRE/view).
 
 ## Covered Subjects
